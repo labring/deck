@@ -12,7 +12,7 @@ sealos 是用来管理数据中心所有机器的云操作系统，kubernetes �
 
 > 产品概览 （简单 干净 极致）
 
-![image](https://user-images.githubusercontent.com/8912557/191524831-3c47e34e-4127-40f5-9fd9-dedca1c0a898.png)
+<img width="1203" alt="image" src="https://user-images.githubusercontent.com/8912557/191527463-15e6dfc0-bb02-4d35-9e62-5702fd91b281.png">
 
 这可不是 win11 而是 sealos desktop, 云操作系统该有的样子！
 
