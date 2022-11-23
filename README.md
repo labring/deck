@@ -25,19 +25,9 @@ sealos 是用来管理数据中心所有机器的云操作系统，kubernetes �
 
 # 解决的问题
 
-<img width="1075" alt="image" src="https://user-images.githubusercontent.com/8912557/173273292-8209d5cd-837d-46a5-8a64-380a350767df.png">
-
-**现有云厂商价格昂贵体系封闭，企业上云强绑定，私有云以及各云厂商之间无法自由切换**
-
-<img width="1281" alt="image" src="https://user-images.githubusercontent.com/8912557/172760276-5652a6d2-5d5d-4633-b017-d892460a6dfc.png">
-
-<img width="689" alt="image" src="https://user-images.githubusercontent.com/8912557/171235734-589d1769-2fc2-4c35-8d44-4c98f3e3f006.png">
-
-> 目前公有云昂贵的根本原因
-
-* 软件成本高，还是基于传统分层架构去设计，导致每一层成本都很高，如分布式存储 IaaS，而内核架构可以绕开这些甚至达到更好的效果
-* 机房备货必须要有预留资源，这部分成本会加到用户身上
-* 如果是传统架构，目前的公有云自然会更便宜，因为类似 openstack 这类软件成本高。 而 sealos 是一个变量，让软件成本降下来，裸机 + sealos 成本自然低了很多
+* 用云复杂
+* 云不够开发
+* 云不通用
 
 # 解决方案
 
